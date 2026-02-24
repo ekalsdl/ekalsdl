@@ -1,4 +1,17 @@
-## Hi there 👋
+# 👩‍💻 Portfolio
+
+### a collection of **major class assignments**
+
+- Deep Learning 
+
+- Explainable Artificial Intelligence
+
+- Machine Learning
+
+
+## 📫 Contact Me
+- GitHub: @ekalsdl
+- Email: ldm3479@gmail.com
 
 <!--
 **ekalsdl/ekalsdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
