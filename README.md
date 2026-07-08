@@ -1,9 +1,10 @@
 # 👩‍💻 Portfolio
 
-### **Project**
-포켓몬 이름 맞추기(다중분류) *https://github.com/ekalsdl/Multi-class-Image-Classification*
 
 ### a collection of **major class assignments**
+
+- Multi-class-Image-Classification *https://github.com/ekalsdl/Multi-class-Image-Classification*
+  포켓몬 이름 맞추기(다중분류)
 
 - Deep Learning  *https://github.com/ekalsdl/Deep-Learning*
 
