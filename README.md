@@ -256,3 +256,31 @@ project/
 
 </div>
 
+
+<details>
+<summary>📂 프로젝트 구조</summary>
+
+```text
+project/
+├── app.py
+├── launch.py
+├── pages/
+│   ├── 0_Home.py
+│   ├── 1_FAQ.py
+│   └── 2_Analysis_Results.py
+├── services/
+├── scripts/
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── risk_config.json
+├── sql/
+├── tests/
+├── docs/
+├── assets/
+├── .streamlit/
+├── requirements.txt
+└── README.md
+```
+
+</details>
