@@ -257,8 +257,11 @@ project/
 </div>
 
 
+
+## 📂 프로젝트 구조
+
 <details>
-<summary>📂 프로젝트 구조</summary>
+<summary>폴더 구조</summary>
 
 ```text
 project/
