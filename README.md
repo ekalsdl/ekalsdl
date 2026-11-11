@@ -79,10 +79,9 @@ Here are some ideas to get you started:
 
 ## 📂 Data Sources
 
-- [전국 주차장 표준데이터](https://www.data.go.kr/)
 - [침수흔적도](https://www.safemap.go.kr/opna/data/dataViewRenew.do?objtId=212)
 - [방재기상관측(AWS)](https://data.kma.go.kr/data/grnd/selectAwsRltmList.do?pgmNo=56&utm_source=chatgpt.com)
-- [서울시 경사도](https://data.seoul.go.kr/dataList/OA-22241/F/1/datasetView.do)](https://data.seoul.go.kr/dataList/OA-22241/F/1/datasetView.do)
+- [서울시 경사도](https://data.seoul.go.kr/dataList/OA-22241/F/1/datasetView.do)
 
 ## ⚠️ Limitations
 
