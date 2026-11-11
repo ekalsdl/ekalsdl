@@ -68,11 +68,13 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack
 
-- Python
-- MySQL
-- Streamlit
-- Pandas
-- Git / GitHub
+| Category | Technology |
+|:---:|:---|
+| Language | Python |
+| Database | MySQL |
+| Framework | Streamlit |
+| Data Analysis | Pandas |
+| Version Control | Git, GitHub |
 
 ## 📂 Data Sources
 
