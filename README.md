@@ -68,25 +68,30 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack
 
-| Category | Technology |
-|:---:|:---|
-| Language | Python |
-| Database | MySQL |
-| Framework | Streamlit |
-| Data Analysis | Pandas |
-| Version Control | Git, GitHub |
+<div align="center">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
+<br><br>
+
+API: 침수흔적도 REST API
+</div>
 ## 📂 Data Sources
 
 | 데이터 | 제공 기관 | 활용 목적 |
-|:---|:---:|:---:|
-| [침수흔적도](https://www.safemap.go.kr/opna/data/dataViewRenew.do?objtId=212) |  |  |
-| [방재기상관측(AWS)](https://data.kma.go.kr/data/grnd/selectAwsRltmList.do?pgmNo=56) |  |  |
-| [서울시 경사도](https://data.seoul.go.kr/dataList/OA-22241/F/1/datasetView.do) |  |  |
+|:---|:---:|:---|
+| [전국주차장표준데이터](https://www.data.go.kr/data/15012896/standard.do) | 지방자치단체 | 서울시 내 주차장 데이터 수집 |
+| [침수흔적도](https://www.safemap.go.kr/opna/data/dataViewRenew.do?objtId=212) | 행정안전부 재난보험과 | 과거 침수 이력 및 침수심 분석 |
+| [방재기상관측(AWS)](https://data.kma.go.kr/data/grnd/selectAwsRltmList.do?pgmNo=56) | 기상청 | 주차장 주변 강수 위험도 산출 |
+| [서울시 경사도](https://data.seoul.go.kr/dataList/OA-22241/F/1/datasetView.do) | 도시공간본부 도시계획상임기획과 | 지형 특성을 활용한 저지대 위험도 분석 |
 
 ## ⚠️ Limitations
 
-- 데이터 수집 시점과 정확도에 따라 분석 결과가 달라질 수 있습니다.
+- 2025년도 데이터를 기준으로 분석하여 이후 발생한 침수 이력 및 환경 변화는 반영하지 못합니다.
 - 실시간 강수 및 배수 시설 상태를 완벽하게 반영하지 못합니다.
 - 산출된 위험도는 주차장 간 상대적 비교 지표이며, 실제 침수 확률이나 안전성을 보장하지 않습니다.
