@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 | Database | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> |
 | Version Control | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> |
 
-<br><br>
+<br>
 API: 침수흔적도 REST API
 
 ## 📂 Data Sources
