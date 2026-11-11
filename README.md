@@ -82,7 +82,7 @@ API: 침수흔적도 REST API
 ## 📂 Data Sources
 
 | 데이터 | 제공 기관 | 활용 목적 |
-|:---|:---:|:---|
+|:---|:---|:---|
 | [전국주차장표준데이터](https://www.data.go.kr/data/15012896/standard.do) | 지방자치단체 | 서울시 내 주차장 데이터 수집 |
 | [침수흔적도](https://www.safemap.go.kr/opna/data/dataViewRenew.do?objtId=212) | 행정안전부 재난보험과 | 과거 침수 이력 및 침수심 분석 |
 | [방재기상관측(AWS)](https://data.kma.go.kr/data/grnd/selectAwsRltmList.do?pgmNo=56) | 기상청 | 주차장 주변 강수 위험도 산출 |
