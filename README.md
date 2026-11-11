@@ -76,12 +76,13 @@ Here are some ideas to get you started:
 | Data Analysis | Pandas |
 | Version Control | Git, GitHub |
 
+
 ## 📂 Data Sources
 
-- 전국 주차장 표준데이터
-- 침수흔적도
-- 강수량 데이터
-- 지형 및 고도 데이터
+- [전국 주차장 표준데이터](https://www.data.go.kr/)
+- [침수흔적도](https://www.data.go.kr/)
+- [강수량 데이터](https://data.kma.go.kr/)
+- [지형 및 고도 데이터](https://www.vworld.kr/)
 
 ## ⚠️ Limitations
 
