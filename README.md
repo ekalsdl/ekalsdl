@@ -79,9 +79,11 @@ Here are some ideas to get you started:
 
 ## 📂 Data Sources
 
-- [침수흔적도](https://www.safemap.go.kr/opna/data/dataViewRenew.do?objtId=212)
-- [방재기상관측(AWS)](https://data.kma.go.kr/data/grnd/selectAwsRltmList.do?pgmNo=56&utm_source=chatgpt.com)
-- [서울시 경사도](https://data.seoul.go.kr/dataList/OA-22241/F/1/datasetView.do)
+| 데이터 | 제공 기관 | 활용 목적 |
+|:---|:---:|:---:|
+| [침수흔적도](https://www.safemap.go.kr/opna/data/dataViewRenew.do?objtId=212) |  |  |
+| [방재기상관측(AWS)](https://data.kma.go.kr/data/grnd/selectAwsRltmList.do?pgmNo=56) |  |  |
+| [서울시 경사도](https://data.seoul.go.kr/dataList/OA-22241/F/1/datasetView.do) |  |  |
 
 ## ⚠️ Limitations
 
